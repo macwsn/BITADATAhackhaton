@@ -1,13 +1,15 @@
 # 🐆 **BITxADATA-Hackhaton**  
 Team
 [**macwsn**](https://github.com/macwsn)
+
 [**mat32121**](https://github.com/mat32121)
+
 [**radbene**](https://github.com/radbene)
+
 [**tommeh**](https://github.com/RETIOM)
 
 
-## Winning solution in Machine Learning path
-
+### Winning solution in Machine Learning path
 
 
 ## 📂 Repository Structure
