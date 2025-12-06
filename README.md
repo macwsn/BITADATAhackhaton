@@ -1,13 +1,13 @@
 # 🐆 **BITxADATA-Hackhaton**  
 Team
 
-[**macwsn**](https://github.com/macwsn)
+[**macwsn**](https://github.com/macwsn) - Maciej Wisniewski
 
-[**mat32121**](https://github.com/mat32121)
+[**mat32121**](https://github.com/mat32121) - Mateusz Kosman
 
-[**radbene**](https://github.com/radbene)
+[**radbene**](https://github.com/radbene) - Radoslaw Benedykcinski
 
-[**tommeh**](https://github.com/RETIOM)
+[**tommeh**](https://github.com/RETIOM) - Tomasz Idzkowski
 
 
 ### Winning solution in Machine Learning path
